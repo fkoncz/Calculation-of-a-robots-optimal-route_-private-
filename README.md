@@ -1,3 +1,6 @@
+# PLEASE CONTACT ME FOR MY PRIVATE REPO FOR THE SOLUTION IN PYTHON!
+
+
 # Calculation-of-a-robots-optimal-route_-private-
 Calculating a robots optimal route
 
